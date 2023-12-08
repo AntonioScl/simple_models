@@ -1,10 +1,9 @@
-test
-tsc/dataset.py
-test_vit
-test_tsc
+test*
 tsc/__pycache__/__main__.cpython-37.pyc
 tsc/__pycache__/__main__.cpython-38.pyc
 tsc/__pycache__/architecture.cpython-37.pyc
 tsc/__pycache__/dataset.cpython-37.pyc
 tsc/__pycache__/train.cpython-37.pyc
 tsc/__pycache__/transformer.cpython-37.pyc
+commands.sh
+ViT_MNIST/*
