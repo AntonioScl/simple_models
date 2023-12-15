@@ -134,7 +134,7 @@ def execute(yield_time=0.0, **args):
             print(f"train_loss {train_loss} <= 0", flush=True)
             return True
         if check_train_err and delta_train_err==0: 
-            print(f"train_error didn't change in the last epoch: delta train error = {delta_train_err}", flush=True)
+            print(f"train_error didn't change in the last epochs: delta train error = {delta_train_err}", flush=True)
             return True
         if step >= args['max_step']: 
             print(f"step {step} >= max_step {args['max_step']}", flush=True)

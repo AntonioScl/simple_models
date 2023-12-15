@@ -7,3 +7,5 @@ tsc/__pycache__/train.cpython-37.pyc
 tsc/__pycache__/transformer.cpython-37.pyc
 commands.sh
 ViT_MNIST/*
+Analysis ViT.ipynb
+.ipynb_checkpoints/Analysis ViT-checkpoint.ipynb
